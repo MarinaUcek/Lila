@@ -1,2 +1,4 @@
 # Lila
-Lila - One page template replication
+Lila - One page template website replication 
+
+https://marinaucek.github.io/Lila/
